@@ -1,3 +1,8 @@
+# chemprop-2.1.0 (frozen mirror)
+
+This repository is a frozen copy of [chemprop/chemprop](https://github.com/chemprop/chemprop) at version 2.1.0 with minor research-specific changes, for my personal research and experiments.  
+All credit goes to the original Chemprop developers.
+
 ![ChemProp Logo](docs/source/_static/images/logo/chemprop_logo.svg)
 # Chemprop
 
