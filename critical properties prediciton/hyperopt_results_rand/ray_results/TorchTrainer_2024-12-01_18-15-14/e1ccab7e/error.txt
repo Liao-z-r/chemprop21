@@ -1,0 +1,56 @@
+Failure # 1 (occurred at 2024-12-01_18-16-03)
+[36mray::_Inner.train()[39m (pid=58412, ip=127.0.0.1, actor_id=bb9e7fab5b730e5a2f0cf8f201000000, repr=TorchTrainer)
+  File "python\ray\_raylet.pyx", line 1862, in ray._raylet.execute_task
+  File "python\ray\_raylet.pyx", line 1803, in ray._raylet.execute_task.function_executor
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\_private\function_manager.py", line 696, in actor_method_executor
+    return method(__ray_actor, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\util\tracing\tracing_helper.py", line 467, in _resume_span
+    return method(self, *_args, **_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\tune\trainable\trainable.py", line 331, in train
+    raise skipped from exception_cause(skipped)
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\train\_internal\utils.py", line 57, in check_for_failure
+    ray.get(object_ref)
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\_private\auto_init_hook.py", line 21, in auto_init_wrapper
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\_private\client_mode_hook.py", line 103, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\_private\worker.py", line 2753, in get
+    values, debugger_breakpoint = worker.get_objects(object_refs, timeout=timeout)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\_private\worker.py", line 904, in get_objects
+    raise value.as_instanceof_cause()
+ray.exceptions.RayTaskError(MisconfigurationException): [36mray::_RayTrainWorker__execute.get_next()[39m (pid=75136, ip=127.0.0.1, actor_id=641ad55b43f302004d47320601000000, repr=<ray.train._internal.worker_group.RayTrainWorker object at 0x000001C98068B290>)
+  File "python\ray\_raylet.pyx", line 1862, in ray._raylet.execute_task
+  File "python\ray\_raylet.pyx", line 1803, in ray._raylet.execute_task.function_executor
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\_private\function_manager.py", line 696, in actor_method_executor
+    return method(__ray_actor, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\util\tracing\tracing_helper.py", line 467, in _resume_span
+    return method(self, *_args, **_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\train\_internal\worker_group.py", line 33, in __execute
+    raise skipped from exception_cause(skipped)
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\ray\train\_internal\utils.py", line 176, in discard_return_wrapper
+    train_func(*args, **kwargs)
+  File "D:\Projects\jupyter_project\chemprop\chemprop\cli\hpopt.py", line 391, in <lambda>
+    lambda config: train_model(
+                   ^^^^^^^^^^^^
+  File "D:\Projects\jupyter_project\chemprop\chemprop\cli\hpopt.py", line 330, in train_model
+    trainer = pl.Trainer(
+              ^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\lightning\pytorch\utilities\argparse.py", line 70, in insert_env_defaults
+    return fn(self, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\lightning\pytorch\trainer\trainer.py", line 395, in __init__
+    self._accelerator_connector = _AcceleratorConnector(
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\lightning\pytorch\trainer\connectors\accelerator_connector.py", line 143, in __init__
+    self._accelerator_flag = self._choose_gpu_accelerator_backend()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\envs\chemprop2\Lib\site-packages\lightning\pytorch\trainer\connectors\accelerator_connector.py", line 353, in _choose_gpu_accelerator_backend
+    raise MisconfigurationException("No supported gpu backend found!")
+lightning.fabric.utilities.exceptions.MisconfigurationException: No supported gpu backend found!

@@ -1,0 +1,578 @@
+1,2-dibromoethylene; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+1,2-dichloroethylene, cis and trans is unparsable due to the following being uninterpretable: cis and trans The following was not parseable:  and trans
+Unlocanted substitution failed: unable to find suitable atom to bond atom with id:3 to!
+Insufficient carbonyl groups found!
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Unable to assign all locants. This locant was not assigned: alpha
+1,2-dichloropropane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+(+-)-glycidol is unparsable due to the following being uninterpretable: (+-)-glycidol The following was not parseable: l
+2-hydroxypropanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Insufficient carbonyl groups found!
+1,2-propanediol (propylene glycol) is unparsable due to the following being uninterpretable: ) The following was not parseable: )
+2-amino-1-propanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+s(+)-2-amino-1-propanol is unparsable due to the following being uninterpretable: s(+)-2-amino-1-propanol The following was not parseable: s(+)-2-amino-1-propanol
+1,2-propanediamine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+biacetylene is unparsable due to the following being uninterpretable: ene The following was not parseable: ene
+Unexpected multiplier found at start of word. Perhaps the name is trivial e.g. triphosgene
+chloroprene is unparsable due to the following being uninterpretable: prene The following was not parseable: prene
+trans-crotonitrile is unparsable due to the following being uninterpretable: rile The following was not parseable: rile
+cis-crotonitrile is unparsable due to the following being uninterpretable: rile The following was not parseable: rile
+dedicated Functional Replacement Prefix used in an inappropriate position :imido
+1,2,3,4-tetrabromobutane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+1,3-dichloro-2-butene, cis and trans is unparsable due to the following being uninterpretable: , cis and trans The following was not parseable: , cis and trans
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Unable to assign all locants. This locant was not assigned: 2
+Could not find stereocentre to apply DL stereochemistry to
+meso-2,3-dibromobutane is unparsable due to the following being uninterpretable: meso-2,3-dibromobutane The following was not parseable: meso-2,3-dibromobutane
+Could not find stereocentre to apply DL stereochemistry to
+meso-2,3-dichlorobutane is unparsable due to the following being uninterpretable: meso-2,3-dichlorobutane The following was not parseable: meso-2,3-dichlorobutane
+2,3-dichlorobutane, dl and meso is unparsable due to the following being uninterpretable: , dl and meso The following was not parseable: , dl and meso
+1-methyl-2-propen-1-ol, (+,-) is unparsable due to the following being uninterpretable: , (+,-) The following was not parseable: , (+,-)
+R,S-3-butene-1,2-diol is unparsable due to the following being uninterpretable: R,S-3-butene-1,2-diol The following was not parseable: 3-butene-1,2-diol
+2-hydroxybutanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-hydroxybutanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2,cis-3-dimethylthiacyclopropane is unparsable due to the following being uninterpretable: 2,cis-3-dimethylthiacyclopropane The following was not parseable: ,cis-3-dimethylthiacyclopropane
+2,trans-3-dimethylthiacyclopropane is unparsable due to the following being uninterpretable: 2,trans-3-dimethylthiacyclopropane The following was not parseable: ,trans-3-dimethylthiacyclopropane
+2-bromobutane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-iodobutane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-nitrobutane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+DL-2,3-butanediol is unparsable due to the following being uninterpretable: DL-2,3-butanediol The following was not parseable: l
+meso-2,3-butanediol is unparsable due to the following being uninterpretable: meso-2,3-butanediol The following was not parseable: meso-2,3-butanediol
+1,2-butanediol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-butanamine, (.+/-.)- is unparsable due to the following being uninterpretable: , (.+/-.)- The following was not parseable: , (.+/-.)-
+diethylene triamine could be parsed but OPSIN was unsure of the meaning of the words. This error will occur, by default, if a name is just a substituent
+spiropentane is unparsable due to the following being uninterpretable: spiropentane The following was not parseable: pentane
+1,3-pentadiene; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Atom is in unphysical valency state! Element: C valency: 5
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+1,cis-2-dimethylcyclopropane is unparsable due to the following being uninterpretable: 1,cis-2-dimethylcyclopropane The following was not parseable: ,cis-2-dimethylcyclopropane
+1,trans-2-dimethylcyclopropane is unparsable due to the following being uninterpretable: 1,trans-2-dimethylcyclopropane The following was not parseable: ,trans-2-dimethylcyclopropane
+2-methylbutanal, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+1-methyl-2-buten-1-ol, (+,-) is unparsable due to the following being uninterpretable: , (+,-) The following was not parseable: , (+,-)
+Could not find bond to unsaturate starting from the atom with locant: 4
+Could not find bond to unsaturate starting from the atom with locant: 4
+Could not find bond to unsaturate starting from the atom with locant: 4
+1-bromo-2-methylbutane, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+2-chloropentane, (+) is unparsable due to the following being uninterpretable: , (+) The following was not parseable: , (+)
+1-chloro-2-methylbutane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-iodopentane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-methyl-1-butanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-methyl-2-butanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+ethyl ether of propylene glycol is unparsable due to the following being uninterpretable: of propylene glycol The following was not parseable: of propylene glycol
+1,2-pentanediol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+DL-erythro-2,3-pentanediol is unparsable due to the following being uninterpretable: DL-erythro-2,3-pentanediol The following was not parseable: anediol
+DL-threo-2,3-pentanediol is unparsable due to the following being uninterpretable: DL-threo-2,3-pentanediol The following was not parseable: anediol
+Could not find atom that: <stereoChemistry locant="2" type="RorS" value="S" stereoGroup="Abs">2S</stereoChemistry> appeared to be referring to
+DL-2,4-pentanediol is unparsable due to the following being uninterpretable: DL-2,4-pentanediol The following was not parseable: l
+meso-2,4-pentanediol is unparsable due to the following being uninterpretable: meso-2,4-pentanediol The following was not parseable: meso-2,4-pentanediol
+2-methyl-1-butanethiol, (+) is unparsable due to the following being uninterpretable: , (+) The following was not parseable: , (+)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Unable to assign all locants. This locant was not assigned: para
+1,3-hexadiene, cis and trans is unparsable due to the following being uninterpretable: , cis and trans The following was not parseable: , cis and trans
+1,cis-3-hexadiene is unparsable due to the following being uninterpretable: 1,cis-3-hexadiene The following was not parseable: ,cis-3-hexadiene
+1,trans-3-hexadiene is unparsable due to the following being uninterpretable: 1,trans-3-hexadiene The following was not parseable: ,trans-3-hexadiene
+1,cis-4-hexadiene is unparsable due to the following being uninterpretable: 1,cis-4-hexadiene The following was not parseable: ,cis-4-hexadiene
+1,trans-4-hexadiene is unparsable due to the following being uninterpretable: 1,trans-4-hexadiene The following was not parseable: ,trans-4-hexadiene
+cis-2,trans-4-hexadiene is unparsable due to the following being uninterpretable: cis-2,trans-4-hexadiene The following was not parseable: ,trans-4-hexadiene
+cis-2,cis-4-hexadiene is unparsable due to the following being uninterpretable: cis-2,cis-4-hexadiene The following was not parseable: ,cis-4-hexadiene
+trans-2,trans-4-hexadiene is unparsable due to the following being uninterpretable: trans-2,trans-4-hexadiene The following was not parseable: ,trans-4-hexadiene
+2-methyl-1,cis-3-pentadiene is unparsable due to the following being uninterpretable: 1,cis-3-pentadiene The following was not parseable: ,cis-3-pentadiene
+2-methyl-1,trans-3-pentadiene is unparsable due to the following being uninterpretable: 1,trans-3-pentadiene The following was not parseable: ,trans-3-pentadiene
+3-methyl-1,cis-3-pentadiene is unparsable due to the following being uninterpretable: 1,cis-3-pentadiene The following was not parseable: ,cis-3-pentadiene
+3-methyl-1,trans-3-pentadiene is unparsable due to the following being uninterpretable: 1,trans-3-pentadiene The following was not parseable: ,trans-3-pentadiene
+methylpentadiene, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+3-methyl-2,4-pentanedione, tautomers is unparsable due to the following being uninterpretable: , tautomers The following was not parseable: , tautomers
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+1,cis-2,cis-3-trimethylcyclopropane is unparsable due to the following being uninterpretable: 1,cis-2,cis-3-trimethylcyclopropane The following was not parseable: ,cis-2,cis-3-trimethylcyclopropane
+1,cis-2,trans-3-trimethylcyclopropane is unparsable due to the following being uninterpretable: 1,cis-2,trans-3-trimethylcyclopropane The following was not parseable: ,cis-2,trans-3-trimethylcyclopropane
+1,cis-2-dimethylcyclobutane is unparsable due to the following being uninterpretable: 1,cis-2-dimethylcyclobutane The following was not parseable: ,cis-2-dimethylcyclobutane
+1,trans-2-dimethylcyclobutane is unparsable due to the following being uninterpretable: 1,trans-2-dimethylcyclobutane The following was not parseable: ,trans-2-dimethylcyclobutane
+1,cis-3-dimethylcyclobutane is unparsable due to the following being uninterpretable: 1,cis-3-dimethylcyclobutane The following was not parseable: ,cis-3-dimethylcyclobutane
+1,trans-3-dimethylcyclobutane is unparsable due to the following being uninterpretable: 1,trans-3-dimethylcyclobutane The following was not parseable: ,trans-3-dimethylcyclobutane
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+2,5-dibromohexane, (R*,R**)-(+-)- is unparsable due to the following being uninterpretable: , (R*,R**)-(+-)- The following was not parseable: , (R*,R**)-(+-)-
+Invalid polyethylene amine!
+Failed to find bond to change to a bond of order: 2
+3-methyl-2-pentanone, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Could not find bond to unsaturate starting from the atom with locant: 5
+2-methylpentanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-methylpentanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+paraldehyde is unparsable due to the following being uninterpretable: paraldehyde The following was not parseable: ldehyde
+2-hydroxyhexanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+DL-a-hydroxycaproic acid is unparsable due to the following being uninterpretable: DL-a-hydroxycaproic acid The following was not parseable: a-hydroxycaproic acid
+DL-a-hydroxyisocaproic acid is unparsable due to the following being uninterpretable: DL-a-hydroxyisocaproic acid The following was not parseable: a-hydroxyisocaproic acid
+L-a-hydroxyisocaproic acid is unparsable due to the following being uninterpretable: L-a-hydroxyisocaproic acid The following was not parseable: a-hydroxyisocaproic acid
+inositol is unparsable due to the following being uninterpretable: inositol The following was not parseable: inositol
+2,cis-3-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 2,cis-3-dimethylthiacyclopentane The following was not parseable: ,cis-3-dimethylthiacyclopentane
+2,trans-3-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 2,trans-3-dimethylthiacyclopentane The following was not parseable: ,trans-3-dimethylthiacyclopentane
+2,cis-4-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 2,cis-4-dimethylthiacyclopentane The following was not parseable: ,cis-4-dimethylthiacyclopentane
+2,trans-4-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 2,trans-4-dimethylthiacyclopentane The following was not parseable: ,trans-4-dimethylthiacyclopentane
+2,cis-5-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 2,cis-5-dimethylthiacyclopentane The following was not parseable: ,cis-5-dimethylthiacyclopentane
+2,trans-5-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 2,trans-5-dimethylthiacyclopentane The following was not parseable: ,trans-5-dimethylthiacyclopentane
+3,cis-4-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 3,cis-4-dimethylthiacyclopentane The following was not parseable: ,cis-4-dimethylthiacyclopentane
+3,trans-4-dimethylthiacyclopentane is unparsable due to the following being uninterpretable: 3,trans-4-dimethylthiacyclopentane The following was not parseable: ,trans-4-dimethylthiacyclopentane
+2-methylpiperidine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-methylpiperidine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2,5-dimethylpyrrolidine, cis and trans is unparsable due to the following being uninterpretable: , cis and trans The following was not parseable: , cis and trans
+n-propoxypropanol (mixed isomers) is unparsable due to the following being uninterpretable: (mixedisomers) The following was not parseable: mixedisomers)
+DL-erythro-4-methyl-2,3-pentanediol is unparsable due to the following being uninterpretable: DL-erythro-4-methyl-2,3-pentanediol The following was not parseable: methyl-2,3-pentanediol
+DL-threo-4-methyl-2,3-pentanediol is unparsable due to the following being uninterpretable: DL-threo-4-methyl-2,3-pentanediol The following was not parseable: methyl-2,3-pentanediol
+2,5-dimethyl-3,4-diathiahexane is unparsable due to the following being uninterpretable: 3,4-diathiahexane The following was not parseable: athiahexane
+ethyl aluminum sesquichloride is unparsable due to the following being uninterpretable: sesquichloride The following was not parseable: ide
+2-hexanamine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+N-ethyl-2-butanamine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+triethylene tetramine could be parsed but OPSIN was unsure of the meaning of the words. This error will occur, by default, if a name is just a substituent
+a-a-p-trichlorotoluene is unparsable due to the following being uninterpretable: a-a-p-trichlorotoluene The following was not parseable: a-a-p-trichlorotoluene
+There are more function groups to attach than there are positions to attach them to!
+cresol mixture is unparsable due to the following being uninterpretable: mixture The following was not parseable: mixture
+5-methyl-1,3-cyclohexadiene, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3,cis-4-dimethylcyclopentene is unparsable due to the following being uninterpretable: 3,cis-4-dimethylcyclopentene The following was not parseable: ,cis-4-dimethylcyclopentene
+3,trans-4-dimethylcyclopentene is unparsable due to the following being uninterpretable: 3,trans-4-dimethylcyclopentene The following was not parseable: ,trans-4-dimethylcyclopentene
+3,cis-5-dimethylcyclopentene is unparsable due to the following being uninterpretable: 3,cis-5-dimethylcyclopentene The following was not parseable: ,cis-5-dimethylcyclopentene
+3,trans-5-dimethylcyclopentene is unparsable due to the following being uninterpretable: 3,trans-5-dimethylcyclopentene The following was not parseable: ,trans-5-dimethylcyclopentene
+3-methylcyclohexene, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+3-methylhexanedioic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2,4-dimethylglutaric acid, DL and meso is unparsable due to the following being uninterpretable: , DL and meso The following was not parseable: , DL and meso
+3-heptene (mixed isomers) is unparsable due to the following being uninterpretable: (mixedisomers) The following was not parseable: mixedisomers)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+trans-2-methylcyclohexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-methylcyclohexanol; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+3-methylcyclohexanol; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+4-methylcyclohexanol; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+2-hepten-4-ol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-methylhexanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+4-methylhexanoic acid, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+sec-pentyl acetate (R) is unparsable due to the following being uninterpretable: (R) The following was not parseable:
+ethyl 2-methylbutanoate, (+) is unparsable due to the following being uninterpretable: , (+) The following was not parseable: , (+)
+1,2-dimethylpiperidine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-ethylpiperidine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-ethylpiperidine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-methylcyclohexylamine; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+2-heptanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-heptanol, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+2-methyl-1-hexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-methyl-1-hexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+4-methyl-1-hexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-methyl-3-hexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+5-methyl-3-hexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2,4-dimethyl-1-pentanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Could not find stereocentre to apply DL stereochemistry to
+meso-2,4-dimethyl-1,5-pentanediol is unparsable due to the following being uninterpretable: meso-2,4-dimethyl-1,5-pentanediol The following was not parseable: meso-2,4-dimethyl-1,5-pentanediol
+erythro-4,4-dimethyl-2,3-pentanediol is unparsable due to the following being uninterpretable: erythro-4,4-dimethyl-2,3-pentanediol The following was not parseable: imethyl-2,3-pentanediol
+threo-4,4-dimethyl-2,3-pentanediol is unparsable due to the following being uninterpretable: threo-4,4-dimethyl-2,3-pentanediol The following was not parseable: imethyl-2,3-pentanediol
+propylene glycol butyl ether, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+Unable to assign all locants. This locant was not assigned: 2
+n-butoxypropanol (mixed isomers) is unparsable due to the following being uninterpretable: (mixedisomers) The following was not parseable: mixedisomers)
+isobutoxypropanol, mixed isomers is unparsable due to the following being uninterpretable: , mixed isomers The following was not parseable: , mixed isomers
+a,a,a',a'-tetrachloro-o-xylene is unparsable due to the following being uninterpretable: a,a,a',a'-tetrachloro-o-xylene The following was not parseable: a,a,a',a'-tetrachloro-o-xylene
+(1-bromoethyl)benzene, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+(1-bromoethyl)benzene, (R) is unparsable due to the following being uninterpretable: , (R) The following was not parseable: , (R)
+(1-chloroethyl)benzene, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+xylenes is unparsable due to the following being uninterpretable: s The following was not parseable: s
+alpha-methylbenzenemethanethiol, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+alpha-methylbenzylamine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+(S)-(-)-a-methylbenzylamine is unparsable due to the following being uninterpretable: (S)-(-)-a-methylbenzylamine The following was not parseable: a-methylbenzylamine
+(R)-(+)-a-methylbenzylamine is unparsable due to the following being uninterpretable: (R)-(+)-a-methylbenzylamine The following was not parseable: a-methylbenzylamine
+3,trans-5-dimethylcyclohexene is unparsable due to the following being uninterpretable: 3,trans-5-dimethylcyclohexene The following was not parseable: ,trans-5-dimethylcyclohexene
+3,trans-6-dimethylcyclohexene is unparsable due to the following being uninterpretable: 3,trans-6-dimethylcyclohexene The following was not parseable: ,trans-6-dimethylcyclohexene
+trans-2,4-dimethylcyclohexanone, (2S) is unparsable due to the following being uninterpretable: , (2S) The following was not parseable: , (2S)
+trans-2,5-dimethylcyclohexanone, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-propyl-2,4-pentadione is unparsable due to the following being uninterpretable: 2,4-pentadione The following was not parseable: one
+5,5-dimethyl-2,4-hexadione is unparsable due to the following being uninterpretable: 2,4-hexadione The following was not parseable: one
+2,6-dimethyl-1,3-dioxan-4-ol acetate, cis and trans is unparsable due to the following being uninterpretable: , cis and trans The following was not parseable: , cis and trans
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+1,cis-2,cis-3-trimethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,cis-3-trimethylcyclopentane The following was not parseable: ,cis-2,cis-3-trimethylcyclopentane
+1,cis-2,trans-3-trimethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,trans-3-trimethylcyclopentane The following was not parseable: ,cis-2,trans-3-trimethylcyclopentane
+1,trans-2,cis-3-trimethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-2,cis-3-trimethylcyclopentane The following was not parseable: ,trans-2,cis-3-trimethylcyclopentane
+1,cis-2,cis-4-trimethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,cis-4-trimethylcyclopentane The following was not parseable: ,cis-2,cis-4-trimethylcyclopentane
+1,cis-2,trans-4-trimethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,trans-4-trimethylcyclopentane The following was not parseable: ,cis-2,trans-4-trimethylcyclopentane
+1,trans-2,cis-4-trimethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-2,cis-4-trimethylcyclopentane The following was not parseable: ,trans-2,cis-4-trimethylcyclopentane
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+cis-2-ethylcyclohexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+trans-2-ethylcyclohexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find stereocentre to apply DL stereochemistry to
+sec-butyl butanoate, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+(<+->)-2-chlorooctane is unparsable due to the following being uninterpretable: (<+->)-2-chlorooctane The following was not parseable: <+->)-2-chlorooctane
+2-ethylhexyl-6-chloride is unparsable due to the following being uninterpretable: 6-chloride The following was not parseable: ide
+2-iodooctane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-propylpiperidine, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+Could not find atom that: <stereoChemistry type="RorS" value="R" subsequentUnsemanticToken="-">r</stereoChemistry> appeared to be referring to
+2-nitrooctane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-octanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+4-octanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-methyl-1-heptanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+5-methyl-1-heptanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-methyl-3-heptanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+6-methyl-3-heptanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-methyl-4-heptanol, (R*,S*)-(+-) is unparsable due to the following being uninterpretable: , (R*,S*)-(+-) The following was not parseable: , (R*,S*)-(+-)
+3,5-dimethyl-3-hexanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+octyl alcohol; mixed isomers is unparsable due to the following being uninterpretable: ; mixed isomers The following was not parseable: ; mixed isomers
+di-sec-butyl ether, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+4,5-octanediol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-octanethiol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+6-methyl-2-heptanamine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2-octanamine, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Anhydride formation appears to be ambiguous; More than 2 acids, no locants
+toluene-2,6-diisocyanate is unparsable due to the following being uninterpretable: 2,6-diisocyanate The following was not parseable: cyanate
+3(4)-methylstyrene, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+(1-bromopropyl)benzene, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+(2-chloropropyl)benzene, (R) is unparsable due to the following being uninterpretable: , (R) The following was not parseable: , (R)
+5-vinyl-2-norbornene, endo and exo is unparsable due to the following being uninterpretable: , endo and exo The following was not parseable: , endo and exo
+dextroamphetamine is unparsable due to the following being uninterpretable: dextroamphetamine The following was not parseable: extroamphetamine
+(S)-(-)-N,a-dimethylbenzylamine is unparsable due to the following being uninterpretable: (S)-(-)-N,a-dimethylbenzylamine The following was not parseable: N,a-dimethylbenzylamine
+(S)-(-)-a,4-dimethylbenzylamine is unparsable due to the following being uninterpretable: (S)-(-)-a,4-dimethylbenzylamine The following was not parseable: a,4-dimethylbenzylamine
+(R)-(+)-a,4-dimethylbenzylamine is unparsable due to the following being uninterpretable: (R)-(+)-a,4-dimethylbenzylamine The following was not parseable: a,4-dimethylbenzylamine
+(R)-(+)-N,a-dimethylbenzylamine is unparsable due to the following being uninterpretable: (R)-(+)-N,a-dimethylbenzylamine The following was not parseable: N,a-dimethylbenzylamine
+(S)-(-)-b-methylphenethylamine is unparsable due to the following being uninterpretable: (S)-(-)-b-methylphenethylamine The following was not parseable: b-methylphenethylamine
+(R)-(+)-b-methylphenethylamine is unparsable due to the following being uninterpretable: (R)-(+)-b-methylphenethylamine The following was not parseable: b-methylphenethylamine
+There are less radicals in the substituents(1) than there are places to form esters(3)
+3,5-dimethyl-3-hydroxyhexane-4-carboxylic acid b-lactone is unparsable due to the following being uninterpretable: b-lactone The following was not parseable: b-lactone
+1,cis-2-diethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2-diethylcyclopentane The following was not parseable: ,cis-2-diethylcyclopentane
+1,trans-2-diethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-2-diethylcyclopentane The following was not parseable: ,trans-2-diethylcyclopentane
+1,cis-3-diethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-3-diethylcyclopentane The following was not parseable: ,cis-3-diethylcyclopentane
+1,trans-3-diethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-3-diethylcyclopentane The following was not parseable: ,trans-3-diethylcyclopentane
+1,cis-2-dimethyl-1-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2-dimethyl-1-ethylcyclopentane The following was not parseable: ,cis-2-dimethyl-1-ethylcyclopentane
+1,trans-2-dimethyl-1-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-2-dimethyl-1-ethylcyclopentane The following was not parseable: ,trans-2-dimethyl-1-ethylcyclopentane
+1,cis-2-dimethyl-cis-4-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2-dimethyl-cis-4-ethylcyclopentane The following was not parseable: ,cis-2-dimethyl-cis-4-ethylcyclopentane
+1,cis-2-dimethyl-trans-4-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2-dimethyl-trans-4-ethylcyclopentane The following was not parseable: ,cis-2-dimethyl-trans-4-ethylcyclopentane
+1,trans-2-dimethyl-cis-4-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-2-dimethyl-cis-4-ethylcyclopentane The following was not parseable: ,trans-2-dimethyl-cis-4-ethylcyclopentane
+1,cis-3-dimethyl-1-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-3-dimethyl-1-ethylcyclopentane The following was not parseable: ,cis-3-dimethyl-1-ethylcyclopentane
+1,trans-3-dimethyl-1-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-3-dimethyl-1-ethylcyclopentane The following was not parseable: ,trans-3-dimethyl-1-ethylcyclopentane
+1,cis-3-dimethyl-cis-2-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-3-dimethyl-cis-2-ethylcyclopentane The following was not parseable: ,cis-3-dimethyl-cis-2-ethylcyclopentane
+1,cis-3-dimethyl-trans-2-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-3-dimethyl-trans-2-ethylcyclopentane The following was not parseable: ,cis-3-dimethyl-trans-2-ethylcyclopentane
+1,trans-3-dimethyl-cis-2-ethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-3-dimethyl-cis-2-ethylcyclopentane The following was not parseable: ,trans-3-dimethyl-cis-2-ethylcyclopentane
+1,1,cis-2,cis-3-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,1,cis-2,cis-3-tetramethylcyclopentane The following was not parseable: ,cis-2,cis-3-tetramethylcyclopentane
+1,1,cis-2,cis-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,1,cis-2,cis-4-tetramethylcyclopentane The following was not parseable: ,cis-2,cis-4-tetramethylcyclopentane
+1,1,cis-3,cis-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,1,cis-3,cis-4-tetramethylcyclopentane The following was not parseable: ,cis-3,cis-4-tetramethylcyclopentane
+1,2,2,cis-3-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,2,2,cis-3-tetramethylcyclopentane The following was not parseable: ,cis-3-tetramethylcyclopentane
+1,cis-2,cis-3,cis-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,cis-3,cis-4-tetramethylcyclopentane The following was not parseable: ,cis-2,cis-3,cis-4-tetramethylcyclopentane
+1,cis-2,cis-3,trans-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,cis-3,trans-4-tetramethylcyclopentane The following was not parseable: ,cis-2,cis-3,trans-4-tetramethylcyclopentane
+1,cis-2,trans-3,cis-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,trans-3,cis-4-tetramethylcyclopentane The following was not parseable: ,cis-2,trans-3,cis-4-tetramethylcyclopentane
+1,cis-2,trans-3,trans-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,cis-2,trans-3,trans-4-tetramethylcyclopentane The following was not parseable: ,cis-2,trans-3,trans-4-tetramethylcyclopentane
+1,trans-2,cis-3,trans-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-2,cis-3,trans-4-tetramethylcyclopentane The following was not parseable: ,trans-2,cis-3,trans-4-tetramethylcyclopentane
+1,trans-2,trans-3,cis-4-tetramethylcyclopentane is unparsable due to the following being uninterpretable: 1,trans-2,trans-3,cis-4-tetramethylcyclopentane The following was not parseable: ,trans-2,trans-3,cis-4-tetramethylcyclopentane
+1,cis-2,cis-3-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,cis-2,cis-3-trimethylcyclohexane The following was not parseable: ,cis-2,cis-3-trimethylcyclohexane
+1,cis-2,trans-3-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,cis-2,trans-3-trimethylcyclohexane The following was not parseable: ,cis-2,trans-3-trimethylcyclohexane
+1,trans-2,cis-3-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,trans-2,cis-3-trimethylcyclohexane The following was not parseable: ,trans-2,cis-3-trimethylcyclohexane
+1,2,4-trimethylcyclohexane, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+1,cis-2,cis-4-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,cis-2,cis-4-trimethylcyclohexane The following was not parseable: ,cis-2,cis-4-trimethylcyclohexane
+1,cis-2,trans-4-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,cis-2,trans-4-trimethylcyclohexane The following was not parseable: ,cis-2,trans-4-trimethylcyclohexane
+1,trans-2,cis-4-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,trans-2,cis-4-trimethylcyclohexane The following was not parseable: ,trans-2,cis-4-trimethylcyclohexane
+1,trans-2,trans-4-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,trans-2,trans-4-trimethylcyclohexane The following was not parseable: ,trans-2,trans-4-trimethylcyclohexane
+1,3,5,-trimethylcyclohexane is unparsable due to the following being uninterpretable: 1,3,5,-trimethylcyclohexane The following was not parseable: ,-trimethylcyclohexane
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken=",">cis</stereoChemistry> could refer unambiguously to
+di(propylene glycol) methyl ether acetate, isomers is unparsable due to the following being uninterpretable: ) methyl ether acetate, isomers The following was not parseable: ) methyl ether acetate, isomers
+1-methyl-2-propylpiperidine, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+2-nonanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3-nonanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+4-nonanol, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+2-ethylbutoxypropanol, mixed isomers is unparsable due to the following being uninterpretable: , mixed isomers The following was not parseable: , mixed isomers
+di(propylene glycol) propyl ether, isomers is unparsable due to the following being uninterpretable: ) propyl ether, isomers The following was not parseable: ) propyl ether, isomers
+tert-nonyl mercaptan, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+Unable to assign all locants. This locant was not assigned: 1,3
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+a,2-dimethylstyrene is unparsable due to the following being uninterpretable: a,2-dimethylstyrene The following was not parseable: a,2-dimethylstyrene
+a-2-chloroisodurene is unparsable due to the following being uninterpretable: a-2-chloroisodurene The following was not parseable: a-2-chloroisodurene
+methamphetamine is unparsable due to the following being uninterpretable: methamphetamine The following was not parseable: mphetamine
+aniline, p-isopropyl-N-methyl-, is unparsable due to the following being uninterpretable: , p-isopropyl-N-methyl-, The following was not parseable: , p-isopropyl-N-methyl-,
+N,N-dimethyl-a-methylbenzylamine is unparsable due to the following being uninterpretable: a-methylbenzylamine The following was not parseable: a-methylbenzylamine
+N-ethyl(a-methylbenzyl)amine is unparsable due to the following being uninterpretable: (a-methylbenzyl)amine The following was not parseable: a-methylbenzyl)amine
+D-limonene is unparsable due to the following being uninterpretable: D-limonene The following was not parseable: limonene
+limonene is unparsable due to the following being uninterpretable: limonene The following was not parseable: imonene
+L-limonene is unparsable due to the following being uninterpretable: L-limonene The following was not parseable: limonene
+alpha-phellandrene is unparsable due to the following being uninterpretable: alpha-phellandrene The following was not parseable: phellandrene
+beta-phellandrene is unparsable due to the following being uninterpretable: beta-phellandrene The following was not parseable: phellandrene
+alpha-pinene, (-) is unparsable due to the following being uninterpretable: , (-) The following was not parseable: , (-)
+beta-pinene, (1R) is unparsable due to the following being uninterpretable: , (1R) The following was not parseable: , (1R)
+4-carene, (1S,3R,6R)-(-) is unparsable due to the following being uninterpretable: , (1S,3R,6R)-(-) The following was not parseable: , (1S,3R,6R)-(-)
+3-carene, (+) is unparsable due to the following being uninterpretable: , (+) The following was not parseable: , (+)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+2-methyl-5-isopropyl-1,3-cyclohexadiene, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+2,6-dimethyl-2,4,6-octatriene, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+(-)-a-pinene is unparsable due to the following being uninterpretable: (-)-a-pinene The following was not parseable: a-pinene
+(1S)-(-)-b-pinene is unparsable due to the following being uninterpretable: (1S)-(-)-b-pinene The following was not parseable: b-pinene
+(+-)-a-pinene is unparsable due to the following being uninterpretable: (+-)-a-pinene The following was not parseable: a-pinene
+(+)-a-pinene is unparsable due to the following being uninterpretable: (+)-a-pinene The following was not parseable: a-pinene
+dimethyl cyclohexane-1,4-dicarboxylate; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+Unable to assign all locants. This locant was not assigned: 2(3)
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+1-methyl-4-isopropylcyclohexene, (R) is unparsable due to the following being uninterpretable: , (R) The following was not parseable: , (R)
+4-methyl-1-isopropylcyclohexene, (R) is unparsable due to the following being uninterpretable: , (R) The following was not parseable: , (R)
+trans-3-methyl-6-isopropylcyclohexene, (3R) is unparsable due to the following being uninterpretable: , (3R) The following was not parseable: , (3R)
+decahydronaphthalene; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+cis-5-methyl-2-isopropylcyclohexanone, (2R) is unparsable due to the following being uninterpretable: , (2R) The following was not parseable: , (2R)
+trans-2-methyl-5-isopropylcyclohexanone, (2S) is unparsable due to the following being uninterpretable: , (2S) The following was not parseable: , (2S)
+trans-5-methyl-2-isopropylcyclohexanone, (2S) is unparsable due to the following being uninterpretable: , (2S) The following was not parseable: , (2S)
+a-terpineol is unparsable due to the following being uninterpretable: a-terpineol The following was not parseable: a-terpineol
+methyl nonylenate is unparsable due to the following being uninterpretable: ate The following was not parseable: ate
+diethylcyclohexane; (mixed isomers) is unparsable due to the following being uninterpretable: ; (mixedisomers) The following was not parseable: ; (mixedisomers)
+2,4,6-trimethyl-3-heptene, isomer is unparsable due to the following being uninterpretable: , isomer The following was not parseable: , isomer
+4-tert-butylcyclohexanol; (cis+trans) is unparsable due to the following being uninterpretable: ; (cis+trans) The following was not parseable: ; (cis+trans)
+2-methyl-5-isopropylcyclohexanol, [1R-(1alpha,2alpha,5beta)] is unparsable due to the following being uninterpretable: , [1R-(1alpha,2alpha,5beta)] The following was not parseable: , [1R-(1alpha,2alpha,5beta)]
+[1R-(1a,2a,5b)]-5-methyl-2-(1-methylethyl)cyclohexanol is unparsable due to the following being uninterpretable: [1R-(1a,2a,5b)]-5-methyl-2-(1-methylethyl)cyclohexanol The following was not parseable: ]-5-methyl-2-(1-methylethyl)cyclohexanol
+beta-citronellol, (R) - (+) is unparsable due to the following being uninterpretable: , (R) - (+) The following was not parseable: , (R) - (+)
+Could not find atom that: <stereoChemistry locant="2" type="RorS" value="S" stereoGroup="Abs">2S</stereoChemistry> appeared to be referring to
+Cannot find ring for hydro substituent to apply to
+Interpretation of tert on an alkane chain of length: 10 is ambiguous
+1-methylpentyl butanoate, (S) is unparsable due to the following being uninterpretable: , (S) The following was not parseable: , (S)
+p-menthane-8-hydroperoxide is unparsable due to the following being uninterpretable: 8-hydroperoxide The following was not parseable: hydroperoxide
+2-decanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+s-3,7-dimethyl-1-octanol is unparsable due to the following being uninterpretable: s-3,7-dimethyl-1-octanol The following was not parseable: 3,7-dimethyl-1-octanol
+2,6-dimethyt-2-octanol is unparsable due to the following being uninterpretable: 2,6-dimethyt-2-octanol The following was not parseable: yt-2-octanol
+3,7-dimethyl-3-octanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+3,7-dimethyl-1-octanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+decyl alcohol (mixed isomers) is unparsable due to the following being uninterpretable: (mixedisomers) The following was not parseable: mixedisomers)
+di(ethylene glycol) hexyl ether is unparsable due to the following being uninterpretable: ) hexyl ether The following was not parseable: ) hexyl ether
+di(propylene glycol) tert-butyl ether, isomers is unparsable due to the following being uninterpretable: ) tert-butyl ether, isomers The following was not parseable: ) tert-butyl ether, isomers
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+(Z)-isovaleric acid 3-hexenyl could be parsed but OPSIN was unsure of the meaning of the words. This error will occur, by default, if a name is just a substituent
+Cannot find functional atom with locant: N to form an ester with
+a, a, a', a'-tetramethylheptanedioic acid is unparsable due to the following being uninterpretable: a, a, a', a'-tetramethylheptanedioic acid The following was not parseable: a, a, a', a'-tetramethylheptanedioic acid
+2-undecanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+n-perfluorododecane is unparsable due to the following being uninterpretable: n-perfluorododecane The following was not parseable: perfluorododecane
+p-aminodiphenyl could be parsed but OPSIN was unsure of the meaning of the words. This error will occur, by default, if a name is just a substituent
+dimethylnaphthalene, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+Cannot find in scope fragment with atom with locant para.
+Unable to assign all locants. This locant was not assigned: para
+methylcyclopentadiene dimer is unparsable due to the following being uninterpretable: dimer The following was not parseable: mer
+triethylbenzene; (mixed isomers) is unparsable due to the following being uninterpretable: ; (mixedisomers) The following was not parseable: ; (mixedisomers)
+hexamethyldewarbenzene is unparsable due to the following being uninterpretable: dewarbenzene The following was not parseable: dewarbenzene
+1,2,3-triethylebenzene is unparsable due to the following being uninterpretable: ebenzene The following was not parseable: ebenzene
+n-butyl-a-methylbenzylamine is unparsable due to the following being uninterpretable: a-methylbenzylamine The following was not parseable: a-methylbenzylamine
+Unexpected multiplier found at start of word. Perhaps the name is trivial e.g. triphosgene
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+(1R)-(-)-neomenthyl acetate is unparsable due to the following being uninterpretable: (1R)-(-)-neomenthyl acetate The following was not parseable: menthyl acetate
+(1S)-(+)-neomenthyl acetate is unparsable due to the following being uninterpretable: (1S)-(+)-neomenthyl acetate The following was not parseable: menthyl acetate
+sucrose is unparsable due to the following being uninterpretable: sucrose The following was not parseable: sucrose
+isobutene, trimer is unparsable due to the following being uninterpretable: , trimer The following was not parseable: , trimer
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+Interpretation of tert on an alkane chain of length: 12 is ambiguous
+Interpretation of tert on an alkane chain of length: 9 is ambiguous
+Interpretation of tert on an alkane chain of length: 9 is ambiguous
+Cannot find in scope fragment with atom with locant 2.
+Cannot find in scope fragment with atom with locant 3.
+Cannot find in scope fragment with atom with locant 4.
+Mismatch between locant and multiplier counts (2 and 3):2,3'
+2,4'-dimethlbiphenyl is unparsable due to the following being uninterpretable: 2,4'-dimethlbiphenyl The following was not parseable: lbiphenyl
+b-sec-butyl-N,N-dimethylphenethylamine is unparsable due to the following being uninterpretable: b-sec-butyl-N,N-dimethylphenethylamine The following was not parseable: b-sec-butyl-N,N-dimethylphenethylamine
+Interpretation of tert on an alkane chain of length: 9 is ambiguous
+Interpretation of tert on an alkane chain of length: 9 is ambiguous
+(1-methyheptyl)-cyclohexane is unparsable due to the following being uninterpretable: (1-methyheptyl)-cyclohexane The following was not parseable: yheptyl)-cyclohexane
+2,2,3,3,5,6,6,-heptamethylheptane is unparsable due to the following being uninterpretable: 2,2,3,3,5,6,6,-heptamethylheptane The following was not parseable: ,-heptamethylheptane
+tetradecanol; mixed isomers is unparsable due to the following being uninterpretable: ; mixed isomers The following was not parseable: ; mixed isomers
+1,14-tertadecanedithiol is unparsable due to the following being uninterpretable: 1,14-tertadecanedithiol The following was not parseable: adecanedithiol
+diphenylmethane-4,4'-diisocyanate is unparsable due to the following being uninterpretable: 4,4'-diisocyanate The following was not parseable: cyanate
+Cannot find in scope fragment with atom with locant 2.
+Cannot find in scope fragment with atom with locant 3.
+Cannot find in scope fragment with atom with locant 4.
+Cannot find in scope fragment with atom with locant 3'.
+Cannot find in scope fragment with atom with locant 4'.
+Cannot find in scope fragment with atom with locant 5'.
+Cannot find in scope fragment with atom with locant 4'.
+Cannot find in scope fragment with atom with locant 5'.
+''2',2''''-dimethyldiphenylmethane'' is unparsable due to the following being uninterpretable: ''2',2''''-dimethyldiphenylmethane'' The following was not parseable: ''2',2''''-dimethyldiphenylmethane''
+''2',3''''-dimethyldiphenylmethane'' is unparsable due to the following being uninterpretable: ''2',3''''-dimethyldiphenylmethane'' The following was not parseable: ''2',3''''-dimethyldiphenylmethane''
+''2',4''''-dimethyldiphenylmethane'' is unparsable due to the following being uninterpretable: ''2',4''''-dimethyldiphenylmethane'' The following was not parseable: ''2',4''''-dimethyldiphenylmethane''
+''3',4''''-dimethyldiphenylmethane'' is unparsable due to the following being uninterpretable: ''3',4''''-dimethyldiphenylmethane'' The following was not parseable: ''3',4''''-dimethyldiphenylmethane''
+''4',4''''-dimethyldiphenylmethane'' is unparsable due to the following being uninterpretable: ''4',4''''-dimethyldiphenylmethane'' The following was not parseable: ''4',4''''-dimethyldiphenylmethane''
+4-nonylphenol, isomers is unparsable due to the following being uninterpretable: , isomers The following was not parseable: , isomers
+Interpretation of tert on an alkane chain of length: 11 is ambiguous
+Interpretation of tert on an alkane chain of length: 11 is ambiguous
+1-ethyl-1-methyl-2,4-diisopropylcy- clohexane, [1R-(1alpha,2beta,4beta)] is unparsable due to the following being uninterpretable: cy- clohexane, [1R-(1alpha,2beta,4beta)] The following was not parseable: cy- clohexane, [1R-(1alpha,2beta,4beta)]
+2,8-dimethyl-6-isobutylnonanol-4 is unparsable due to the following being uninterpretable: 4 The following was not parseable:
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="cis" subsequentUnsemanticToken="-">cis</stereoChemistry> could refer unambiguously to
+Could not find bond that: <stereoChemistry type="cisOrTrans" value="trans" subsequentUnsemanticToken="-">trans</stereoChemistry> could refer unambiguously to
+1,3-diphenylbutane, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Could not find stereocentre to apply DL stereochemistry to
+meso-2,3-diphenylbutane is unparsable due to the following being uninterpretable: meso-2,3-diphenylbutane The following was not parseable: meso-2,3-diphenylbutane
+Interpretation of tert on an alkane chain of length: 12 is ambiguous
+Interpretation of tert on an alkane chain of length: 12 is ambiguous
+Interpretation of tert on an alkane chain of length: 13 is ambiguous
+Interpretation of tert on an alkane chain of length: 13 is ambiguous
+1:2:3:4-tetramethylphenanthrene is unparsable due to the following being uninterpretable: 1:2:3:4-tetramethylphenanthrene The following was not parseable: :2:3:4-tetramethylphenanthrene
+dodecylphenols is unparsable due to the following being uninterpretable: s The following was not parseable: s
+linolenic acid is unparsable due to the following being uninterpretable: linolenic acid The following was not parseable: nic acid
+Interpretation of tert on an alkane chain of length: 14 is ambiguous
+Interpretation of tert on an alkane chain of length: 14 is ambiguous
+3-octadecanol, (+-) is unparsable due to the following being uninterpretable: , (+-) The following was not parseable: , (+-)
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Interpretation of tert on an alkane chain of length: 15 is ambiguous
+Interpretation of tert on an alkane chain of length: 15 is ambiguous
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Substitutive bond formation failure: Fragment expected to have one OutAtom but had: 2
+abietic acid is unparsable due to the following being uninterpretable: abietic acid The following was not parseable: abietic acid
+palustric acid is unparsable due to the following being uninterpretable: palustric acid The following was not parseable: palustric acid
+pimaric acid is unparsable due to the following being uninterpretable: pimaric acid The following was not parseable: pimaric acid
+neoabietic acid is unparsable due to the following being uninterpretable: neoabietic acid The following was not parseable: abietic acid
+dehydroabietylamine is unparsable due to the following being uninterpretable: abietylamine The following was not parseable: abietylamine
+Interpretation of tert on an alkane chain of length: 16 is ambiguous
+Interpretation of tert on an alkane chain of length: 16 is ambiguous
+5-isopropyl-1:2-benzanthracene is unparsable due to the following being uninterpretable: 1:2-benzanthracene The following was not parseable: :2-benzanthracene
+6-isopropyl-1:2-benzanthracene is unparsable due to the following being uninterpretable: 1:2-benzanthracene The following was not parseable: :2-benzanthracene
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+dehydroabietic acid is unparsable due to the following being uninterpretable: abietic acid The following was not parseable: abietic acid
+Interpretation of tert on an alkane chain of length: 17 is ambiguous
+Interpretation of tert on an alkane chain of length: 17 is ambiguous
+Cannot find in scope fragment with atom with locant 20.
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+3-methyluneicosane is unparsable due to the following being uninterpretable: uneicosane The following was not parseable: uneicosane
+5-methyluneicosane is unparsable due to the following being uninterpretable: uneicosane The following was not parseable: uneicosane
+4-methyluneicosane is unparsable due to the following being uninterpretable: uneicosane The following was not parseable: uneicosane
+5-n-amyl-1:2-benzanthracene is unparsable due to the following being uninterpretable: 1:2-benzanthracene The following was not parseable: :2-benzanthracene
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+tert-20-butylcholanthrene is unparsable due to the following being uninterpretable: tert-20-butylcholanthrene The following was not parseable: 20-butylcholanthrene
+Unable to assign all locants to benzo-fused ring or multiplier was mising
+11-cyclopentyl-uneicosane is unparsable due to the following being uninterpretable: uneicosane The following was not parseable: uneicosane
+11-pentyluneicosane is unparsable due to the following being uninterpretable: uneicosane The following was not parseable: uneicosane
+11-(cyclopentylmethyl)-uneicosane is unparsable due to the following being uninterpretable: uneicosane The following was not parseable: uneicosane
+1-cyclohexy-2-(cyclohexylmethyl)-pentadecane is unparsable due to the following being uninterpretable: 1-cyclohexy-2-(cyclohexylmethyl)-pentadecane The following was not parseable: y-2-(cyclohexylmethyl)-pentadecane
+stigmast-5-en-3-ol, (3beta) is unparsable due to the following being uninterpretable: , (3beta) The following was not parseable: , (3beta)
+11-(2,5-dimethylphenyl)-10-uneicosene is unparsable due to the following being uninterpretable: 10-uneicosene The following was not parseable: uneicosene
+isocetyl stearate is unparsable due to the following being uninterpretable: isocetyl stearate The following was not parseable: cetyl stearate
+hextriacont should not have been lexed as two tokens!
+hepttriacont should not have been lexed as two tokens!
+tritriacont should not have been lexed as two tokens!
+2-methylhen-tetracontane is unparsable due to the following being uninterpretable: hen-tetracontane The following was not parseable: -tetracontane
+tetrtetracont should not have been lexed as two tokens!
+penttetracont should not have been lexed as two tokens!
+hextetracont should not have been lexed as two tokens!
+hepttetracont should not have been lexed as two tokens!
+octtetracont should not have been lexed as two tokens!
+nontetracont should not have been lexed as two tokens!
+1-tetrapenta-contanethiol is unparsable due to the following being uninterpretable: 1-tetrapenta-contanethiol The following was not parseable: contanethiol
+tetrpentacont should not have been lexed as two tokens!
+1-pentapenta-contanethiol is unparsable due to the following being uninterpretable: 1-pentapenta-contanethiol The following was not parseable: contanethiol
+pentpentacont should not have been lexed as two tokens!
+1-hexapenta-contanethiol is unparsable due to the following being uninterpretable: 1-hexapenta-contanethiol The following was not parseable: contanethiol
+hexpentacont should not have been lexed as two tokens!
+1-heptapenta-contanethiol is unparsable due to the following being uninterpretable: 1-heptapenta-contanethiol The following was not parseable: contanethiol
+heptpentacont should not have been lexed as two tokens!
+octpentacont should not have been lexed as two tokens!
+1-nonapenta-contanethiol is unparsable due to the following being uninterpretable: 1-nonapenta-contanethiol The following was not parseable: contanethiol
+nonpentacont should not have been lexed as two tokens!
+2-methylhen-hexacontane is unparsable due to the following being uninterpretable: hen-hexacontane The following was not parseable: -hexacontane
+tetrhexacont should not have been lexed as two tokens!
+penthexacont should not have been lexed as two tokens!
+hexhexacont should not have been lexed as two tokens!
+1-heptahexa-contanethiol is unparsable due to the following being uninterpretable: 1-heptahexa-contanethiol The following was not parseable: contanethiol
+hepthexacont should not have been lexed as two tokens!
+octhexacont should not have been lexed as two tokens!
+nonhexacont should not have been lexed as two tokens!
+2-methylhen-heptacontane is unparsable due to the following being uninterpretable: hen-heptacontane The following was not parseable: -heptacontane
+1-tetrahepta-contanethiol is unparsable due to the following being uninterpretable: 1-tetrahepta-contanethiol The following was not parseable: contanethiol
+tetrheptacont should not have been lexed as two tokens!
+1-pentahepta-contanethiol is unparsable due to the following being uninterpretable: 1-pentahepta-contanethiol The following was not parseable: contanethiol
+pentheptacont should not have been lexed as two tokens!
+1-hexahepta-contanethiol is unparsable due to the following being uninterpretable: 1-hexahepta-contanethiol The following was not parseable: contanethiol
+hexheptacont should not have been lexed as two tokens!
+1-heptahepta-contanethiol is unparsable due to the following being uninterpretable: 1-heptahepta-contanethiol The following was not parseable: contanethiol
+heptheptacont should not have been lexed as two tokens!
+octheptacont should not have been lexed as two tokens!
+1-nonahepta-contanethiol is unparsable due to the following being uninterpretable: 1-nonahepta-contanethiol The following was not parseable: contanethiol
+nonheptacont should not have been lexed as two tokens!

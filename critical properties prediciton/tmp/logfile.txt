@@ -1,0 +1,89 @@
+2024-11-30T09:26:48 - INFO:chemprop.cli.main - Running in mode 'train' with args: {'smiles_columns': None, 'reaction_columns': None, 'no_header_row': False, 'num_workers': 0, 'batch_size': 64, 'accelerator': 'gpu', 'devices': 'auto', 'rxn_mode': 'REAC_DIFF', 'multi_hot_atom_featurizer_mode': 'V2', 'keep_h': False, 'add_h': False, 'molecule_featurizers': None, 'descriptors_path': None, 'no_descriptor_scaling': False, 'no_atom_feature_scaling': False, 'no_atom_descriptor_scaling': False, 'no_bond_feature_scaling': False, 'atom_features_path': None, 'atom_descriptors_path': None, 'bond_features_path': None, 'config_path': None, 'data_path': WindowsPath('critprop_expt_cpo_scaled.csv'), 'output_dir': WindowsPath('tmp'), 'remove_checkpoints': False, 'checkpoint': None, 'freeze_encoder': False, 'model_frzn': None, 'frzn_ffn_layers': 0, 'ensemble_size': 1, 'message_hidden_dim': 300, 'message_bias': False, 'depth': 3, 'undirected': False, 'dropout': 0.0, 'mpn_shared': False, 'activation': 'RELU', 'aggregation': 'norm', 'aggregation_norm': 100, 'atom_messages': False, 'ffn_hidden_dim': 300, 'ffn_num_layers': 1, 'batch_norm': False, 'multiclass_num_classes': 3, 'weight_column': None, 'target_columns': None, 'ignore_columns': None, 'no_cache': False, 'splits_column': None, 'task_type': 'regression', 'loss_function': None, 'v_kl': 0.0, 'eps': 1e-08, 'alpha': 0.1, 'metrics': None, 'tracking_metric': 'val_loss', 'show_individual_scores': False, 'task_weights': None, 'warmup_epochs': 2, 'init_lr': 0.0001, 'max_lr': 0.001, 'final_lr': 0.0001, 'epochs': 50, 'patience': None, 'grad_clip': None, 'class_balance': False, 'split': 'RANDOM', 'split_sizes': [0.8, 0.1, 0.1], 'split_key_molecule': 0, 'num_replicates': 1, 'num_folds': None, 'save_smiles_splits': True, 'splits_file': None, 'data_seed': 0, 'pytorch_seed': None}
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - Pulling data from file: critprop_expt_cpo_scaled.csv
+2024-11-30T09:26:48 - WARNING:chemprop.data.splitting - The return type of make_split_indices has changed in v2.1 - see help(make_split_indices)
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - train/val/test split_0 sizes: [915, 114, 115]
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - 
+                                     Summary of Training Data                                     
+©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+©§       Statistic ©§ Value (Tc (K)) ©§ Value (Pc (bar)) ©§ Value (rhoc (mol/L)) ©§ Value (omega (-)) ©§
+©Å©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©Í
+©¦     Num. smiles ©¦            915 ©¦              915 ©¦                  915 ©¦               915 ©¦
+©¦    Num. targets ©¦            897 ©¦              773 ©¦                  712 ©¦               417 ©¦
+©¦        Num. NaN ©¦             18 ©¦              142 ©¦                  203 ©¦               498 ©¦
+©¦            Mean ©¦        0.00632 ©¦          0.00448 ©¦              0.00258 ©¦          -0.00272 ©¦
+©¦       Std. dev. ©¦              1 ©¦             1.04 ©¦                 1.01 ©¦              1.01 ©¦
+©¦          Median ©¦         0.0149 ©¦           -0.158 ©¦               -0.247 ©¦            -0.233 ©¦
+©¦ % within 1 s.d. ©¦            70% ©¦              83% ©¦                  88% ©¦               75% ©¦
+©¦ % within 2 s.d. ©¦            96% ©¦              97% ©¦                  96% ©¦               95% ©¦
+©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - 
+                                    Summary of Validation Data                                    
+©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+©§       Statistic ©§ Value (Tc (K)) ©§ Value (Pc (bar)) ©§ Value (rhoc (mol/L)) ©§ Value (omega (-)) ©§
+©Å©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©Í
+©¦     Num. smiles ©¦            114 ©¦              114 ©¦                  114 ©¦               114 ©¦
+©¦    Num. targets ©¦            110 ©¦               95 ©¦                   97 ©¦                47 ©¦
+©¦        Num. NaN ©¦              4 ©¦               19 ©¦                   17 ©¦                67 ©¦
+©¦            Mean ©¦         -0.037 ©¦          -0.0663 ©¦              0.00291 ©¦           -0.0984 ©¦
+©¦       Std. dev. ©¦           1.03 ©¦            0.798 ©¦                  1.1 ©¦             0.838 ©¦
+©¦          Median ©¦        -0.0438 ©¦           -0.246 ©¦               -0.245 ©¦            -0.216 ©¦
+©¦ % within 1 s.d. ©¦            74% ©¦              78% ©¦                  88% ©¦               74% ©¦
+©¦ % within 2 s.d. ©¦            95% ©¦              95% ©¦                  97% ©¦               96% ©¦
+©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - 
+                                       Summary of Test Data                                       
+©³©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©×©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©·
+©§       Statistic ©§ Value (Tc (K)) ©§ Value (Pc (bar)) ©§ Value (rhoc (mol/L)) ©§ Value (omega (-)) ©§
+©Å©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©ë©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©¥©Í
+©¦     Num. smiles ©¦            115 ©¦              115 ©¦                  115 ©¦               115 ©¦
+©¦    Num. targets ©¦            109 ©¦               96 ©¦                   93 ©¦                60 ©¦
+©¦        Num. NaN ©¦              6 ©¦               19 ©¦                   22 ©¦                55 ©¦
+©¦            Mean ©¦        -0.0147 ©¦           0.0295 ©¦              -0.0228 ©¦             0.096 ©¦
+©¦       Std. dev. ©¦          0.935 ©¦             0.79 ©¦                 0.79 ©¦              1.01 ©¦
+©¦          Median ©¦        -0.0264 ©¦           0.0455 ©¦               -0.168 ©¦           -0.0843 ©¦
+©¦ % within 1 s.d. ©¦            72% ©¦              75% ©¦                  86% ©¦               73% ©¦
+©¦ % within 2 s.d. ©¦            94% ©¦              95% ©¦                  95% ©¦               95% ©¦
+©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©Ø©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¼
+
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - Train data: mean = [ 0.0063224   0.00447917  0.0025834  -0.00272436] | std = [1.00336478 1.04437517 1.00948274 1.01369159]
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - No loss function was specified! Using class default: <class 'chemprop.nn.metrics.MSE'>
+2024-11-30T09:26:48 - INFO:chemprop.cli.train - MPNN(
+  (message_passing): BondMessagePassing(
+    (W_i): Linear(in_features=86, out_features=300, bias=False)
+    (W_h): Linear(in_features=300, out_features=300, bias=False)
+    (W_o): Linear(in_features=372, out_features=300, bias=True)
+    (dropout): Dropout(p=0.0, inplace=False)
+    (tau): ReLU()
+    (V_d_transform): Identity()
+    (graph_transform): GraphTransform(
+      (V_transform): Identity()
+      (E_transform): Identity()
+    )
+  )
+  (agg): NormAggregation()
+  (bn): Identity()
+  (predictor): RegressionFFN(
+    (ffn): MLP(
+      (0): Sequential(
+        (0): Linear(in_features=300, out_features=300, bias=True)
+      )
+      (1): Sequential(
+        (0): ReLU()
+        (1): Dropout(p=0.0, inplace=False)
+        (2): Linear(in_features=300, out_features=4, bias=True)
+      )
+    )
+    (criterion): MSE(task_weights=[[1.0, 1.0, 1.0, 1.0]])
+    (output_transform): UnscaleTransform()
+  )
+  (X_d_transform): Identity()
+  (metrics): ModuleList(
+    (0): MSE(task_weights=[[1.0]])
+    (1): MSE(task_weights=[[1.0, 1.0, 1.0, 1.0]])
+  )
+)
+2024-11-30T09:26:56 - INFO:chemprop.cli.train - Test Set results:
+2024-11-30T09:26:56 - INFO:chemprop.cli.train - test/mse: 0.11240728199481964
+2024-11-30T09:26:56 - INFO:chemprop.cli.train - Best model saved to 'tmp\model_0\best.pt'
